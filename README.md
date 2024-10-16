@@ -1,4 +1,3 @@
-# Register_-
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QHBoxLayout
 from PyQt5.QtCore import QTimer, QSize
 from PyQt5.QtGui import QFont, QIcon
